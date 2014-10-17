@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[noj:home|Door43 (noj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-noj|d43-noj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-noj/archive/master.zip|d43-noj.zip]]
+
+**Recent Changes**
+{{changes>ns = noj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/noj|Ethnologue data]]
+
